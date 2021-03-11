@@ -1,5 +1,5 @@
 # notify - Hack the North 2020 Submission
-![alt text](https://raw.githubusercontent.com/TheAdityaMoon/notify/static/client/src/assets/logo.png)
+![alt text](https://raw.githubusercontent.com/TheAdityaMoon/notify/master/client/src/assets/logo.png)
 
 ## Inspiration
 News is an invaluable source of knowledge, and something that many of us take for granted: Modern news is on the internet. For us, that means that the accessibility of our news is a couple scrolls away. For other people however, it’s not so easy.
