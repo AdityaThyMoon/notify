@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+    a {
+        margin: 20px;
+    }
+
+    img {
+        max-width: 70px;
+      margin-left: 20px;
+      margin-top: 10px
+    }
+
+    .tags {
+        display: flex;
+        justify-content: flex-end;
+        flex: 1;
+    
+        a {
+            text-decoration: none;
+          text-decoration: none;
+          font-weight: bold;
+          font-size: 1.1rem;
+        }
+    
+        a:hover {
+            color: #333;
+            transition: all 0.4s ease-out;
+        }
+    }    
+}
+
+.header-hidden {
+    display: none;
+}

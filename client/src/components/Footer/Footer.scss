@@ -1,0 +1,26 @@
+.footer {
+    padding: 25px 0 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #6FB1D8;
+
+    h3 {
+        margin: 0 0 20px;
+    }
+
+    #copyright {
+        margin: 25px 0 5px;
+    }
+
+    .social-media-icons > a > img {
+        max-width: 30px;
+        margin: 0 10px;
+    }
+
+    .programmers > a > img{
+        max-width: 30px;
+        padding: 0 10px;
+        border-radius: 50%;
+    }
+}
